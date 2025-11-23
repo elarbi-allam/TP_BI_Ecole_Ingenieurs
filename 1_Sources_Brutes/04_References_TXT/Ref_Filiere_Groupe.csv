@@ -1,0 +1,26 @@
+filieres_groupe_id	filieres_code	filieres_cycle	filieres_niveau	filieres_nom	groupes_nom
+1	AP	Cycle Préparatoire	AP1	Années Préparatoires	AP1_G1
+2	AP	Cycle Préparatoire	AP1	Années Préparatoires	AP1_G2
+3	AP	Cycle Préparatoire	AP2	Années Préparatoires	AP2_G1
+4	AP	Cycle Préparatoire	AP2	Années Préparatoires	AP2_G2
+5	INFO	Cycle Ingénieur	CI1	Informatique	INFO_CI1_G1
+6	INFO	Cycle Ingénieur	CI1	Informatique	INFO_CI1_G2
+7	INFO	Cycle Ingénieur	CI2	Informatique	INFO_CI2_G1
+8	INFO	Cycle Ingénieur	CI2	Informatique	INFO_CI2_G2
+9	INFO	Cycle Ingénieur	CI3	Informatique	INFO_CI3_G1
+10	INDUS	Cycle Ingénieur	CI1	Génie Industriel	INDUS_CI1_G1
+11	INDUS	Cycle Ingénieur	CI1	Génie Industriel	INDUS_CI1_G2
+12	INDUS	Cycle Ingénieur	CI2	Génie Industriel	INDUS_CI2_G1
+13	INDUS	Cycle Ingénieur	CI2	Génie Industriel	INDUS_CI2_G2
+14	INDUS	Cycle Ingénieur	CI3	Génie Industriel	INDUS_CI3_G1
+15	ELECTRO	Cycle Ingénieur	CI1	Génie Électrique	ELEC_CI1_G1
+16	ELECTRO	Cycle Ingénieur	CI1	Génie Électrique	ELEC_CI1_G2
+17	ELECTRO	Cycle Ingénieur	CI2	Génie Électrique	ELEC_CI2_G1
+18	ELECTRO	Cycle Ingénieur	CI3	Génie Électrique	ELEC_CI3_G1
+19	TELECOM	Cycle Ingénieur	CI2	Télécommunications	TELE_CI2_G1
+20	TELECOM	Cycle Ingénieur	CI3	Télécommunications	TELE_CI3_G1
+21	CYBER	Cycle Ingénieur	CI2	Cybersécurité	CYBER_CI2_G1
+22	CYBER	Cycle Ingénieur	CI3	Cybersécurité	CYBER_CI3_G1
+23	ENERGIE	Cycle Ingénieur	CI2	Énergies Renouvelables	ENERGIE_CI2_G1
+24	ENERGIE	Cycle Ingénieur	CI3	Énergies Renouvelables	ENERGIE_CI3_G1
+25	ENERGIE	Cycle Ingénieur	CI3	Énergies Renouvelables	ENERGIE_CI3_G2

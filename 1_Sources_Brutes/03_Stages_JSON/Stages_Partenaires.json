@@ -1,0 +1,80 @@
+[
+  {
+    "entreprise_id": 1,
+    "nom_entreprise": "KOSTAL",
+    "pays_entreprise": "Allemagne (opérations au Maroc)",
+    "ville_entreprise": "Tanger (site de production / recrutement de stagiaires)"
+  },
+  {
+    "entreprise_id": 2,
+    "nom_entreprise": "CONTINENTAL",
+    "pays_entreprise": "Allemagne (opérations au Maroc)",
+    "ville_entreprise": "Tanger (site industriel)"
+  },
+  {
+    "entreprise_id": 3,
+    "nom_entreprise": "GMD METAL TANGER",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Tanger"
+  },
+  {
+    "entreprise_id": 1,
+    "nom_entreprise": "Deloitte Maroc",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca"
+  },
+  {
+    "entreprise_id": 2,
+    "nom_entreprise": "Atos Maroc",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca, Rabat"
+  },
+  {
+    "entreprise_id": 3,
+    "nom_entreprise": "SQLI",
+    "pays_entreprise": "Maroc / France",
+    "ville_entreprise": "Rabat, Casablanca (Maroc) / Levallois-Perret (France)"
+  },
+  {
+    "entreprise_id": 4,
+    "nom_entreprise": "Groupe OCP (OCP Group)",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca, Khouribga"
+  },
+  {
+    "entreprise_id": 5,
+    "nom_entreprise": "JESA Group",
+    "pays_entreprise": "Maroc / Afrique",
+    "ville_entreprise": "Casablanca (siège régional)"
+  },
+  {
+    "entreprise_id": 6,
+    "nom_entreprise": "UM6P (Université Mohammed VI Polytechnique) / Atlas Cloud Services",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Benguerir (Province de Rehamna)"
+  },
+  {
+    "entreprise_id": 7,
+    "nom_entreprise": "ONCF (Office National des Chemins de Fer)",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Rabat (siège) / Casablanca / Tanger"
+  },
+  {
+    "entreprise_id": 5,
+    "nom_entreprise": "FAAR PRONERGY GROUP",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Tanger / Région"
+  },
+  {
+    "entreprise_id": 6,
+    "nom_entreprise": "INTRALCO",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Tanger (ou région proche)"
+  },
+  {
+    "entreprise_id": 7,
+    "nom_entreprise": "Oracle Morocco R&D Center",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca (programme national mentionné)"
+  }
+]
