@@ -1,0 +1,308 @@
+[
+  {
+    "entreprise_id": 1,
+    "nom_entreprise": "KOSTAL",
+    "pays_entreprise": "Allemagne",
+    "ville_entreprise": "Tanger"
+  },
+  {
+    "entreprise_id": 2,
+    "nom_entreprise": "CONTINENTAL",
+    "pays_entreprise": "Allemagne",
+    "ville_entreprise": "Tanger"
+  },
+  {
+    "entreprise_id": 3,
+    "nom_entreprise": "GMD METAL TANGER",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Tanger"
+  },
+  {
+    "entreprise_id": 4,
+    "nom_entreprise": "Deloitte Maroc",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca"
+  },
+  {
+    "entreprise_id": 5,
+    "nom_entreprise": "Atos Maroc",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca"
+  },
+  {
+    "entreprise_id": 6,
+    "nom_entreprise": "SQLI",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Rabat"
+  },
+  {
+    "entreprise_id": 7,
+    "nom_entreprise": "Groupe OCP",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca"
+  },
+  {
+    "entreprise_id": 8,
+    "nom_entreprise": "JESA Group",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca"
+  },
+  {
+    "entreprise_id": 9,
+    "nom_entreprise": "UM6P",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Benguerir"
+  },
+  {
+    "entreprise_id": 10,
+    "nom_entreprise": "ONCF",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Rabat"
+  },
+  {
+    "entreprise_id": 11,
+    "nom_entreprise": "FAAR PRONERGY GROUP",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Tanger"
+  },
+  {
+    "entreprise_id": 12,
+    "nom_entreprise": "INTRALCO",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Tanger"
+  },
+  {
+    "entreprise_id": 13,
+    "nom_entreprise": "Oracle Morocco R&D Center",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca"
+  },
+  {
+    "entreprise_id": 14,
+    "nom_entreprise": "Capgemini Engineering Morocco",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca"
+  },
+  {
+    "entreprise_id": 15,
+    "nom_entreprise": "IBM Morocco",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca"
+  },
+  {
+    "entreprise_id": 16,
+    "nom_entreprise": "Microsoft Casablanca",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca"
+  },
+  {
+    "entreprise_id": 17,
+    "nom_entreprise": "Maroc Telecom (IAM)",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Rabat"
+  },
+  {
+    "entreprise_id": 18,
+    "nom_entreprise": "Orange Maroc",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca"
+  },
+  {
+    "entreprise_id": 19,
+    "nom_entreprise": "Inwi",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca"
+  },
+  {
+    "entreprise_id": 20,
+    "nom_entreprise": "HPS",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca"
+  },
+  {
+    "entreprise_id": 21,
+    "nom_entreprise": "CGI Morocco",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca"
+  },
+  {
+    "entreprise_id": 22,
+    "nom_entreprise": "S2M - A Bankable Company",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca"
+  },
+  {
+    "entreprise_id": 23,
+    "nom_entreprise": "Banksys",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca"
+  },
+  {
+    "entreprise_id": 24,
+    "nom_entreprise": "Lydec",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca"
+  },
+  {
+    "entreprise_id": 25,
+    "nom_entreprise": "REDAL",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Rabat"
+  },
+  {
+    "entreprise_id": 26,
+    "nom_entreprise": "RADEEMA",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca"
+  },
+  {
+    "entreprise_id": 27,
+    "nom_entreprise": "Nareva",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca"
+  },
+  {
+    "entreprise_id": 28,
+    "nom_entreprise": "MASEN",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Rabat"
+  },
+  {
+    "entreprise_id": 29,
+    "nom_entreprise": "Tanger Med",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Tanger"
+  },
+  {
+    "entreprise_id": 30,
+    "nom_entreprise": "RENAULT Maroc",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Tanger"
+  },
+  {
+    "entreprise_id": 31,
+    "nom_entreprise": "PSA Peugeot Citroën Maroc",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Kenitra"
+  },
+  {
+    "entreprise_id": 32,
+    "nom_entreprise": "Yazaki Maroc",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Tanger"
+  },
+  {
+    "entreprise_id": 33,
+    "nom_entreprise": "LEONI Cable Morocco",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Tanger"
+  },
+  {
+    "entreprise_id": 34,
+    "nom_entreprise": "BOSCH Rexroth Morocco",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Tanger"
+  },
+  {
+    "entreprise_id": 35,
+    "nom_entreprise": "LafargeHolcim Maroc",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca"
+  },
+  {
+    "entreprise_id": 36,
+    "nom_entreprise": "Ciments du Maroc",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca"
+  },
+  {
+    "entreprise_id": 37,
+    "nom_entreprise": "SONASID",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca"
+  },
+  {
+    "entreprise_id": 38,
+    "nom_entreprise": "Managem Group",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca"
+  },
+  {
+    "entreprise_id": 39,
+    "nom_entreprise": "LABEL VIE",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca"
+  },
+  {
+    "entreprise_id": 40,
+    "nom_entreprise": "MARJANE HOLDING",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca"
+  },
+  {
+    "entreprise_id": 41,
+    "nom_entreprise": "AWBAR SMART SYSTEMS",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Rabat"
+  },
+  {
+    "entreprise_id": 42,
+    "nom_entreprise": "DXC Technology Morocco",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca"
+  },
+  {
+    "entreprise_id": 43,
+    "nom_entreprise": "Accenture Morocco",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca"
+  },
+  {
+    "entreprise_id": 44,
+    "nom_entreprise": "EY Maroc",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca"
+  },
+  {
+    "entreprise_id": 45,
+    "nom_entreprise": "KPMG Morocco",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca"
+  },
+  {
+    "entreprise_id": 46,
+    "nom_entreprise": "PwC Morocco",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca"
+  },
+  {
+    "entreprise_id": 47,
+    "nom_entreprise": "Banque Centrale Populaire",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca"
+  },
+  {
+    "entreprise_id": 48,
+    "nom_entreprise": "Attijariwafa bank",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca"
+  },
+  {
+    "entreprise_id": 49,
+    "nom_entreprise": "BMCE Bank of Africa",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca"
+  },
+  {
+    "entreprise_id": 50,
+    "nom_entreprise": "Société Générale Maroc",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Casablanca"
+  },
+  {
+    "entreprise_id": 51,
+    "nom_entreprise": "Projet Personnel",
+    "pays_entreprise": "Maroc",
+    "ville_entreprise": "Toutes villes (projet autonome)"
+  }
+]

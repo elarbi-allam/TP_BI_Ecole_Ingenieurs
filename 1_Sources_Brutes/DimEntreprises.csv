@@ -1,0 +1,52 @@
+entreprise_id,nom_entreprise,pays_entreprise,ville_entreprise
+1,KOSTAL,Allemagne (opérations au Maroc),Tanger (site de production / recrutement de stagiaires)
+2,CONTINENTAL,Allemagne (opérations au Maroc),Tanger (site industriel)
+3,GMD METAL TANGER,Maroc,Tanger
+4,Deloitte Maroc,Maroc,Casablanca
+5,Atos Maroc,Maroc,Casablanca, Rabat
+6,SQLI,Maroc / France,Rabat, Casablanca (Maroc) / Levallois-Perret (France)
+7,Groupe OCP (OCP Group),Maroc,Casablanca, Khouribga
+8,JESA Group,Maroc / Afrique,Casablanca (siège régional)
+9,UM6P (Université Mohammed VI Polytechnique) / Atlas Cloud Services,Maroc,Benguerir (Province de Rehamna)
+10,ONCF (Office National des Chemins de Fer),Maroc,Rabat (siège) / Casablanca / Tanger
+11,FAAR PRONERGY GROUP,Maroc,Tanger / Région
+12,INTRALCO,Maroc,Tanger (ou région proche)
+13,Oracle Morocco R&D Center,Maroc,Casablanca (programme national mentionné)
+14,Capgemini Engineering Morocco,Maroc,Casablanca, Rabat
+15,IBM Morocco,Maroc,Casablanca
+16,Microsoft Casablanca,Maroc,Casablanca
+17,Maroc Telecom (IAM),Maroc,Rabat, Casablanca
+18,Orange Maroc,Maroc,Casablanca
+19,Inwi,Maroc,Casablanca
+20,HPS (High Tech Payment Systems),Maroc,Casablanca
+21,CGI Morocco,Maroc,Casablanca
+22,S2M - A Bankable Company,Maroc,Casablanca
+23,Banksys (Groupe Credit du Maroc),Maroc,Casablanca
+24,Lydec,Maroc,Casablanca
+25,REDAL,Maroc,Rabat
+26,RADEEMA,Maroc,Casablanca
+27,Nareva,Maroc,Casablanca
+28,MASEN,Maroc,Rabat
+29,Tanger Med,Maroc,Tanger
+30,RENAULT Maroc,Maroc,Tanger, Casablanca
+31,PSA Peugeot Citroën Maroc,Maroc,Kenitra
+32,Yazaki Maroc,Maroc,Tanger, Kénitra
+33,LEONI Cable Morocco,Maroc,Tanger
+34,BOSCH Rexroth Morocco,Maroc,Tanger
+35,LafargeHolcim Maroc,Maroc,Casablanca, Tanger
+36,Ciments du Maroc,Maroc,Casablanca
+37,SONASID,Maroc,Casablanca, Nador
+38,Managem Group,Maroc,Casablanca
+39,LABEL VIE,Maroc,Casablanca
+40,MARJANE HOLDING,Maroc,Casablanca
+41,AWBAR SMART SYSTEMS,Maroc,Rabat
+42,DXC Technology Morocco,Maroc,Casablanca
+43,Accenture Morocco,Maroc,Casablanca
+44,EY Maroc,Maroc,Casablanca
+45,KPMG Morocco,Maroc,Casablanca
+46,PwC Morocco,Maroc,Casablanca
+47,Banque Centrale Populaire,Maroc,Casablanca
+48,Attijariwafa bank,Maroc,Casablanca
+49,BMCE Bank of Africa,Maroc,Casablanca
+50,Société Générale Maroc,Maroc,Casablanca
+51,Projet Personnel,Maroc,Toutes villes (projet autonome)
